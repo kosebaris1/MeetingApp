@@ -3,7 +3,7 @@
 Uygulamanın amacı çeşitli kurum çalışanlarının ilgili alan kodlarını kullanarak toplantı bildirim ağı oluşturmaktır. Çalışanlar ilgili şirketlerinin alan kodunu kullanarak kayıt olabilirler. Kullanıcılar toplantı ekleyebilir, güncelleyebilir ve silebilir. Ancak toplantıyı güncelleme veya silme yetkisi yalnızca toplantıyı düzenleyen kişinin yetkisindedir.
 
 ## Login Page
-[Ekran görüntüsü 2025-01-16 191400](https://github.com/user-attachments/assets/38a46f0c-2259-4982-9bbd-ba1908dae69f)
+![Ekran görüntüsü 2025-01-16 191400](https://github.com/user-attachments/assets/008d0015-1cae-4356-bfa7-009d95566070)
 
 ## SignUp Page
 ![Ekran görüntüsü 2025-01-16 191745](https://github.com/user-attachments/assets/1b6fda64-ef0a-45a7-aae3-a9515f100df3)
